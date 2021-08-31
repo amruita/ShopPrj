@@ -30,6 +30,7 @@ public class prac {
 		int finalSeed = Integer.parseInt(subStr); // integer value
 
 		System.out.println(finalSeed);
+		System.out.println(finalSeed);
 
 	}
 }
