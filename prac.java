@@ -31,6 +31,7 @@ public class prac {
 
 		System.out.println(finalSeed);
 		System.out.println(finalSeed);
+		System.out.println(finalSeed);
 
 	}
 }
